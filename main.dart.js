@@ -42003,7 +42003,7 @@ $.Vl().toString
 this.d=null
 u=new P.al(10,10)
 t=[N.aq]
-return M.Ii(E.xg(s,L.ab("Mewtwo Event",s,s,s,s,s)),new T.bT(C.F,s,s,B.Dy(H.d([T.cL(H.d([new T.az(s,30,s,s),new T.az(s,400,U.ea("/assets/mewtwo.jpg",s,s),s),new T.az(s,10,s,s),L.ab("Join the queue with your email address or reddit username.",s,s,s,s,s),new T.az(500,s,Z.Xp(L.Tq(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"u/amplifyoucan or emailaddress@gmail.com",s,s,s,s,s,s,s,s,s,s,s,s,s,s),new E.OR(this),C.cl),s),new T.az(s,10,s,s),D.X6(L.ab("Submit",s,s,s,s,s),new E.OS(this,a),new X.bB(C.v,new K.aw(u,u,u,u)))],t),C.P,C.au,C.Q),T.cL(C.kw,C.P,C.am,C.Q)],t)),s))},
+return M.Ii(E.xg(s,L.ab("Mewtwo Event",s,s,s,s,s)),new T.bT(C.F,s,s,B.Dy(H.d([T.cL(H.d([new T.az(s,30,s,s),new T.az(s,400,U.ea("/assets/images/mewtwo.jpg",s,s),s),new T.az(s,10,s,s),L.ab("Join the queue with your email address or reddit username.",s,s,s,s,s),new T.az(500,s,Z.Xp(L.Tq(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"u/amplifyoucan or emailaddress@gmail.com",s,s,s,s,s,s,s,s,s,s,s,s,s,s),new E.OR(this),C.cl),s),new T.az(s,10,s,s),D.X6(L.ab("Submit",s,s,s,s,s),new E.OS(this,a),new X.bB(C.v,new K.aw(u,u,u,u)))],t),C.P,C.au,C.Q),T.cL(C.kw,C.P,C.am,C.Q)],t)),s))},
 $aU:function(){return[E.q7]}}
 E.OR.prototype={
 $1:function(a){this.a.e=a}}
@@ -42026,7 +42026,7 @@ $.Vl().toString
 this.d=null
 u=new P.al(10,10)
 t=[N.aq]
-return M.Ii(E.xg(s,L.ab("Tracksuit Event",s,s,s,s,s)),new T.bT(C.F,s,s,B.Dy(H.d([T.cL(H.d([new T.az(s,30,s,s),new T.az(s,400,U.ea("/assets/tracksuitPoster.jpeg",s,s),s),new T.az(s,10,s,s),L.ab("Join the queue with your email address or reddit username.",s,s,s,s,s),new T.az(500,s,Z.Xp(L.Tq(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"u/amplifyoucan or emailaddress@gmail.com",s,s,s,s,s,s,s,s,s,s,s,s,s,s),new Y.QM(this),C.cl),s),new T.az(s,10,s,s),D.X6(L.ab("Submit",s,s,s,s,s),new Y.QN(this,a),new X.bB(C.v,new K.aw(u,u,u,u)))],t),C.P,C.au,C.Q),T.cL(C.kw,C.P,C.am,C.Q)],t)),s))},
+return M.Ii(E.xg(s,L.ab("Tracksuit Event",s,s,s,s,s)),new T.bT(C.F,s,s,B.Dy(H.d([T.cL(H.d([new T.az(s,30,s,s),new T.az(s,400,U.ea("/assets/images/tracksuitPoster.jpeg",s,s),s),new T.az(s,10,s,s),L.ab("Join the queue with your email address or reddit username.",s,s,s,s,s),new T.az(500,s,Z.Xp(L.Tq(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"u/amplifyoucan or emailaddress@gmail.com",s,s,s,s,s,s,s,s,s,s,s,s,s,s),new Y.QM(this),C.cl),s),new T.az(s,10,s,s),D.X6(L.ab("Submit",s,s,s,s,s),new Y.QN(this,a),new X.bB(C.v,new K.aw(u,u,u,u)))],t),C.P,C.au,C.Q),T.cL(C.kw,C.P,C.am,C.Q)],t)),s))},
 $aU:function(){return[Y.t5]}}
 Y.QM.prototype={
 $1:function(a){this.a.e=a}}
@@ -42050,18 +42050,18 @@ u=L.ab("Live Events!",m,m,m,K.a0(a,!1).y2.d.iP(25),m)
 t=[O.bz]
 s=S.ci(m,m,H.d([new O.bz(2,C.bl,new P.k(0,0),5)],t),m,m,m,C.J)
 r=new P.al(5,5)
-s=T.iY(H.d([D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(r,r,r,r),U.ea("assets/mewtwo_sprite.jpg",120,120)),m,m,s,m,m,m,m),new T.az(m,3,m,m),L.ab("November 4-14, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.NZ(a),m,m,m,m,m)],k),C.P,C.au,C.Q)
+s=T.iY(H.d([D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(r,r,r,r),U.ea("assets/images/mewtwo_sprite.jpg",120,120)),m,m,s,m,m,m,m),new T.az(m,3,m,m),L.ab("November 4-14, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.NZ(a),m,m,m,m,m)],k),C.P,C.au,C.Q)
 r=L.ab("Upcoming Events",m,m,m,K.a0(a,!1).y2.d.iP(25),m)
 q=S.ci(m,m,H.d([new O.bz(2,C.bl,new P.k(0,0),5)],t),m,m,m,C.J)
 p=new P.al(5,5)
-q=T.iY(H.d([D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(p,p,p,p),U.ea("assets/tracksuit_sprite.jpeg",120,120)),m,m,q,m,m,m,m),new T.az(m,3,m,m),L.ab("November 16-25, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.O_(a),m,m,m,m,m)],k),C.P,C.au,C.Q)
+q=T.iY(H.d([D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(p,p,p,p),U.ea("assets/images/tracksuit_sprite.jpeg",120,120)),m,m,q,m,m,m,m),new T.az(m,3,m,m),L.ab("November 16-25, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.O_(a),m,m,m,m,m)],k),C.P,C.au,C.Q)
 p=L.ab("Past Events",m,m,m,K.a0(a,!1).y2.d.iP(25),m)
 o=S.ci(m,m,H.d([new O.bz(2,C.bl,new P.k(0,0),5)],t),m,m,m,C.J)
 n=new P.al(5,5)
-o=D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(n,n,n,n),U.ea("assets/shinyLunandSolg.jpg",120,212)),m,m,o,m,m,m,m),new T.az(m,3,m,m),L.ab("October 21-November 10, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.O0(a),m,m,m,m,m)
+o=D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(n,n,n,n),U.ea("assets/images/shinyLunandSolg.jpg",120,212)),m,m,o,m,m,m,m),new T.az(m,3,m,m),L.ab("October 21-November 10, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.O0(a),m,m,m,m,m)
 t=S.ci(m,m,H.d([new O.bz(2,C.bl,new P.k(0,0),5)],t),m,m,m,C.J)
 n=new P.al(5,5)
-return M.Ii(l,new T.bT(C.F,m,m,B.Dy(H.d([new T.az(m,25,m,m),new T.bT(C.F,m,m,u,m),new T.bw(new V.a_(10,10,10,10),s,m),new T.bT(C.F,m,m,r,m),new T.bw(new V.a_(10,10,10,10),q,m),new T.bT(C.F,m,m,p,m),new T.bw(new V.a_(10,10,10,10),T.iY(H.d([o,new T.az(10,m,m,m),D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(n,n,n,n),U.ea("assets/shinyPikandEev.jpg",120,215)),m,m,t,m,m,m,m),new T.az(m,3,m,m),L.ab("May 11-June 23, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.O1(a),m,m,m,m,m)],k),C.P,C.au,C.Q),m)],k)),m))},
+return M.Ii(l,new T.bT(C.F,m,m,B.Dy(H.d([new T.az(m,25,m,m),new T.bT(C.F,m,m,u,m),new T.bw(new V.a_(10,10,10,10),s,m),new T.bT(C.F,m,m,r,m),new T.bw(new V.a_(10,10,10,10),q,m),new T.bT(C.F,m,m,p,m),new T.bw(new V.a_(10,10,10,10),T.iY(H.d([o,new T.az(10,m,m,m),D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(n,n,n,n),U.ea("assets/images/shinyPikandEev.jpg",120,215)),m,m,t,m,m,m,m),new T.az(m,3,m,m),L.ab("May 11-June 23, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.O1(a),m,m,m,m,m)],k),C.P,C.au,C.Q),m)],k)),m))},
 $aU:function(){return[Y.pq]}}
 Y.NY.prototype={
 $0:function(){Y.a3g(this.a)},
@@ -42477,18 +42477,18 @@ u=L.ab("Live Events!",m,m,m,K.a0(a,!1).y2.d.iP(25),m)
 t=[O.bz]
 s=S.ci(m,m,H.d([new O.bz(2,C.bl,new P.k(0,0),5)],t),m,m,m,C.J)
 r=new P.al(5,5)
-s=T.iY(H.d([D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(r,r,r,r),U.ea("assets/mewtwo_sprite.jpg",120,120)),m,m,s,m,m,m,m),new T.az(m,3,m,m),L.ab("November 4-14, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.NU(a),m,m,m,m,m)],k),C.P,C.au,C.Q)
+s=T.iY(H.d([D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(r,r,r,r),U.ea("assets/images/mewtwo_sprite.jpg",120,120)),m,m,s,m,m,m,m),new T.az(m,3,m,m),L.ab("November 4-14, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.NU(a),m,m,m,m,m)],k),C.P,C.au,C.Q)
 r=L.ab("Upcoming Events",m,m,m,K.a0(a,!1).y2.d.iP(25),m)
 q=S.ci(m,m,H.d([new O.bz(2,C.bl,new P.k(0,0),5)],t),m,m,m,C.J)
 p=new P.al(5,5)
-q=T.iY(H.d([D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(p,p,p,p),U.ea("assets/tracksuit_sprite.jpeg",120,120)),m,m,q,m,m,m,m),new T.az(m,3,m,m),L.ab("November 16-25, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.NV(a),m,m,m,m,m)],k),C.P,C.au,C.Q)
+q=T.iY(H.d([D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(p,p,p,p),U.ea("assets/images/tracksuit_sprite.jpeg",120,120)),m,m,q,m,m,m,m),new T.az(m,3,m,m),L.ab("November 16-25, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.NV(a),m,m,m,m,m)],k),C.P,C.au,C.Q)
 p=L.ab("Past Events",m,m,m,K.a0(a,!1).y2.d.iP(25),m)
 o=S.ci(m,m,H.d([new O.bz(2,C.bl,new P.k(0,0),5)],t),m,m,m,C.J)
 n=new P.al(5,5)
-o=D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(n,n,n,n),U.ea("assets/shinyLunandSolg.jpg",120,212)),m,m,o,m,m,m,m),new T.az(m,3,m,m),L.ab("October 21-November 10, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.NW(a),m,m,m,m,m)
+o=D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(n,n,n,n),U.ea("assets/images/shinyLunandSolg.jpg",120,212)),m,m,o,m,m,m,m),new T.az(m,3,m,m),L.ab("October 21-November 10, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.NW(a),m,m,m,m,m)
 t=S.ci(m,m,H.d([new O.bz(2,C.bl,new P.k(0,0),5)],t),m,m,m,C.J)
 n=new P.al(5,5)
-return M.Ii(l,new T.bT(C.F,m,m,B.Dy(H.d([new T.az(m,25,m,m),new T.bT(C.F,m,m,u,m),new T.bw(new V.a_(10,10,10,10),s,m),new T.bT(C.F,m,m,r,m),new T.bw(new V.a_(10,10,10,10),q,m),new T.bT(C.F,m,m,p,m),new T.bw(new V.a_(10,10,10,10),T.iY(H.d([o,new T.az(10,m,m,m),D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(n,n,n,n),U.ea("assets/shinyPikandEev.jpg",120,215)),m,m,t,m,m,m,m),new T.az(m,3,m,m),L.ab("May 11-June 23, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.NX(a),m,m,m,m,m)],k),C.P,C.au,C.Q),m)],k)),m))},
+return M.Ii(l,new T.bT(C.F,m,m,B.Dy(H.d([new T.az(m,25,m,m),new T.bT(C.F,m,m,u,m),new T.bw(new V.a_(10,10,10,10),s,m),new T.bT(C.F,m,m,r,m),new T.bw(new V.a_(10,10,10,10),q,m),new T.bT(C.F,m,m,p,m),new T.bw(new V.a_(10,10,10,10),T.iY(H.d([o,new T.az(10,m,m,m),D.cq(m,T.cL(H.d([M.ck(m,T.fR(new K.aw(n,n,n,n),U.ea("assets/images/shinyPikandEev.jpg",120,215)),m,m,t,m,m,m,m),new T.az(m,3,m,m),L.ab("May 11-June 23, 2019",m,m,m,m,m)],k),C.P,C.am,C.Q),C.H,!1,m,m,m,m,m,m,m,m,m,m,m,new Y.NX(a),m,m,m,m,m)],k),C.P,C.au,C.Q),m)],k)),m))},
 $aU:function(){return[Y.pp]}}
 Y.NT.prototype={
 $0:function(){Y.a3f(this.a)},
