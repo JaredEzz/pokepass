@@ -42458,7 +42458,7 @@ E.T6.prototype={
 $0:function(){window.location.href="mailto:jaredezzethasson@gmail.com"},
 $S:0}
 E.T7.prototype={
-$0:function(){window.location.href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=95YQARL75YUY6&currency_code=USD&source=url"},
+$0:function(){window.location.href="https://www.paypal.me/jaredhasson"},
 $S:0}
 E.T8.prototype={
 $0:function(){K.dQ(this.a,!1).cl()},
@@ -42545,7 +42545,7 @@ Y.T9.prototype={
 $0:function(){window.location.href="mailto:jaredezzethasson@gmail.com"},
 $S:0}
 Y.Ta.prototype={
-$0:function(){window.location.href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=95YQARL75YUY6&currency_code=USD&source=url"},
+$0:function(){window.location.href="https://www.paypal.me/jaredhasson"},
 $S:0}
 Y.Tb.prototype={
 $0:function(){K.dQ(this.a,!1).cl()},
@@ -42601,7 +42601,7 @@ Y.Tc.prototype={
 $0:function(){window.location.href="mailto:jaredezzethasson@gmail.com"},
 $S:0}
 Y.Td.prototype={
-$0:function(){window.location.href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=95YQARL75YUY6&currency_code=USD&source=url"},
+$0:function(){window.location.href="https://www.paypal.me/jaredhasson"},
 $S:0}
 Y.T5.prototype={
 $0:function(){K.dQ(this.a,!1).cl()},
@@ -43031,7 +43031,7 @@ Y.T2.prototype={
 $0:function(){window.location.href="mailto:jaredezzethasson@gmail.com"},
 $S:0}
 Y.T3.prototype={
-$0:function(){window.location.href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=95YQARL75YUY6&currency_code=USD&source=url"},
+$0:function(){window.location.href="https://www.paypal.me/jaredhasson"},
 $S:0}
 Y.T4.prototype={
 $0:function(){K.dQ(this.a,!1).cl()},
