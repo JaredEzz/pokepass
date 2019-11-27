@@ -650,7 +650,10 @@ file:///Users/jaredhasson/dev/pokepass_dev/.packages
 file:///Users/jaredhasson/dev/pokepass_dev/lib/database.dart
 file:///Users/jaredhasson/dev/pokepass_dev/lib/fluro_router.dart
 file:///Users/jaredhasson/dev/pokepass_dev/lib/main.dart
+file:///Users/jaredhasson/dev/pokepass_dev/lib/model/trainer_account.dart
 file:///Users/jaredhasson/dev/pokepass_dev/lib/model/user.dart
 file:///Users/jaredhasson/dev/pokepass_dev/lib/pages/events/mewtwo.dart
 file:///Users/jaredhasson/dev/pokepass_dev/lib/pages/events/tracksuit.dart
 file:///Users/jaredhasson/dev/pokepass_dev/lib/pages/home.dart
+file:///Users/jaredhasson/dev/pokepass_dev/lib/pages/instructions/diy.dart
+file:///Users/jaredhasson/dev/pokepass_dev/lib/pages/instructions/new_account.dart
